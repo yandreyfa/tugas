@@ -421,3 +421,4 @@ if(isset($_POST["checkout"])){
 </script>	
 <!-- //main slider-banner --> 
 </body>
+</html>
