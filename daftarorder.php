@@ -386,3 +386,4 @@ if(isset($_POST["update"])){
 </script>	
 <!-- //main slider-banner --> 
 </body>
+</html>
